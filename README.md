@@ -1,4 +1,3 @@
 ffmaple  
-[sp](https://ffmaple.straw.page/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ffmaple&color=611914&style=for-the-badge&abbreviated=true&label=🍁)
